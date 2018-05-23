@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+	<Say>The number you have dialed is a data only channel. Please resend your information as SMS or MMS formatted data. This channel will now terminate.</Say>
+	<Hangup/>
+</Response>
